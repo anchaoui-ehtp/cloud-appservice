@@ -31,4 +31,4 @@ scipy==1.5.3
 sklearn-pandas==1.7.0
 streamlit==1.13.0
 xgboost==1.6.2
-dataclasses==0.8
+dataclasses==0.6
