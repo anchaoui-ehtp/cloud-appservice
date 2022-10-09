@@ -3,5 +3,5 @@ sklearn==0.0
 azureml==0.2.7
 azureml-automl-runtime==1.46.1
 xgboost==1.6.2
-dataclasses==0.6
-Flask==2.0.2
+pip
+
