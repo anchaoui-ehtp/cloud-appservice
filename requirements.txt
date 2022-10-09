@@ -1,5 +1,5 @@
 streamlit==1.13.0
 sklearn==0.0
 azureml==0.2.7
-
+azureml-automl-runtime==1.46.1
 xgboost==1.6.2
