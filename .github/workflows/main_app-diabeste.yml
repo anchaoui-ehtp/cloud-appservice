@@ -30,7 +30,7 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt  
       - name: unInstall dependencies
-        run: pip uninstall -r -y inrequirement.txt
+        run: pip uninstall -r  inrequirement.txt -y
         
       # Optional: Add step to run tests here (PyTest, Django test suites, etc.)
       
