@@ -1,9 +1,7 @@
+streamlit
 
-pandas==1.1.5
-sklearn-pandas==1.7.0
-streamlit==1.13.0
-xgboost==1.6.2
-
-azure-core==1.25.1
-azureml-automl-runtime==1.46.0
-
+sklearn
+azureml
+azureml-core
+azureml-automl-runtime
+xgboost
