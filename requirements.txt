@@ -4,4 +4,4 @@ azureml==0.2.7
 azureml-core
 xgboost==1.6.2
 
-
+azureml-sdk==1.46.0
