@@ -162,7 +162,7 @@ heapdict==1.0.1
 backports.weakref==1.0.post1
 backports.tempfile==1.0
 locket==1.0.0
-msal-extensions==1.0.0
+
 azure-graphrbac==0.61.1
 
 shap==0.39.0
