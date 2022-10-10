@@ -6,7 +6,7 @@ attrs==22.1.0
 azureml-train-automl-runtime==1.44.0
 inference-schema
 azureml-interpret==1.44.0
-azureml-defaults==1.44.01
+azureml-defaults==1.44.0
 backports.tempfile==1.0
 backports.weakref==1.0.post1
 backports.zoneinfo==0.2.1
