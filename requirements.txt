@@ -1,5 +1,5 @@
 
-protobuf
+protobuf<=3.20
 azureml-dataprep-native==38.0.0
 
 pyzmq==24.0.1
