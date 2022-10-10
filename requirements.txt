@@ -164,7 +164,7 @@ backports.tempfile==1.0
 locket==1.0.0
 msal-extensions==1.0.0
 azure-graphrbac==0.61.1
-numba==0.55.2
+
 shap==0.39.0
 llvmlite==0.38.1
 wheel==0.37.1
