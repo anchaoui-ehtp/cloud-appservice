@@ -15,7 +15,7 @@ azure-mgmt-resource==21.1.0
 azure-mgmt-storage==20.0.0
 azureml==0.2.7
 azureml-automl-core==1.46.1
-azureml-automl-runtime==1.46.1
+azureml-automl-runtime
 azureml-core==1.46.0
 azureml-dataprep==4.5.7
 azureml-dataprep-native==38.0.0
@@ -63,7 +63,7 @@ isodate==0.6.1
 jeepney==0.8.0
 Jinja2==3.1.2
 jmespath==0.10.0
-joblib==1.2.0
+joblib
 jsonpickle==2.2.0
 jsonschema==4.16.0
 keras2onnx==1.6.0
