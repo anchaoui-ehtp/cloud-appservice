@@ -4,7 +4,7 @@ certifi==2022.6.15
 pytz==2022.1
 setuptools==61.2.0
 azureml-dataprep-native==38.0.0
-cryptography==38.0.0
+
 pyzmq==24.0.1
 flatbuffers==22.9.24
 attrs==22.1.0
@@ -15,9 +15,9 @@ azure-mgmt-resource==21.1.0
 pip==20.2.4
 gunicorn==20.1.0
 azure-mgmt-storage==20.0.0
-azure-storage-blob==12.13.0
+
 pyqt5-sip==12.11.0
-azure-storage-queue==12.4.0
+
 azure-mgmt-keyvault==10.1.0
 humanfriendly==10.0
 azure-mgmt-containerregistry==10.0.0
@@ -58,7 +58,7 @@ configparser==3.7.4
 h5py==3.7.0
 matplotlib==3.5.1
 idna==3.4
-secretstorage==3.3.3
+
 lightgbm==3.2.1
 oauthlib==3.2.1
 gitpython==3.1.27
@@ -78,7 +78,7 @@ pygments==2.13.0
 google-auth==2.12.0
 azureml-dataprep-rslex==2.11.3
 
-paramiko==2.11.0
+
 google-api-core==2.10.1
 python-dateutil==2.8.2
 portalocker==2.5.1
@@ -100,11 +100,11 @@ azure-mgmt-authorization==2.0.0
 googleapis-common-protos==1.56.4
 azureml-dataset-runtime==1.46.0
 azureml-train-automl-client==1.46.0
-azureml-mlflow==1.46.0
+
 azureml-telemetry==1.46.0
 azureml-responsibleai==1.46.0
 azureml-automl-core==1.46.0
-azureml-core==1.46.0
+azureml-core
 azureml-train-core==1.46.0
 azureml-pipeline-core==1.46.0
 azureml-automl-runtime==1.46.0
